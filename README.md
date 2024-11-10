@@ -15,7 +15,7 @@ This tool creates a simple collage from a folder with images.
 
 __Example output:__
 
-These are some images I took with my phone, displayed in a gallery.
+These are some images I took with my phone, displayed in a collage.
 ![image](https://github.com/mhurk/simple-collage/blob/main/collage.jpg)
 
 
