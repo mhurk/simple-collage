@@ -1,3 +1,10 @@
+![GitHub Created At](https://img.shields.io/github/created-at/mhurk/simple-collage)
+![GitHub repo file or directory count](https://img.shields.io/github/directory-file-count/mhurk/simple-collage%2Fsource?type=file)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/mhurk/simple-collage)
+![GitHub language count](https://img.shields.io/github/languages/count/mhurk/simple-collage)
+![GitHub last commit](https://img.shields.io/github/last-commit/mhurk/simple-collage)
+<!---![GitHub repo size](https://img.shields.io/github/repo-size/mhurk/simple-collage)--->
+
 # Simple Collage
 
 This tool creates a simple collage from a folder with images.
